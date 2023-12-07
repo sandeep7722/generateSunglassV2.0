@@ -92,7 +92,7 @@ function getNumberOfFiles(folderPath) {
 
 const model="tability-ai/sdxl:39ed52f2a78e934b3ba6e2a89f5b1c712de7dfea535525255b1aa35c5565e08b";
 const input={
-    prompt: "Generate an 8K digital image featuring a lone, stylish Ralph Lauren sunglass elegantly placed on a table. Exclude any human features in the composition. Emphasize the design details of the sunglass against the table surface, creating a visually captivating scene that highlights the elegance and sophistication of the eyewear. Craft an image that conveys a sense of luxury and fashion through this minimalist tabletop arrangement."
+    prompt: "Generate an image of an exclusive Ralph Lauren sunglass with the handle intricately adorned with flowers and butterflies. The sunglass should be singular, placed luxuriously on a table, and in 8k resolution"
   };
 
 
